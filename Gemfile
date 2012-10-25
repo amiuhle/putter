@@ -4,6 +4,9 @@ gem 'rails', '3.2.8'
 
 gem "mongoid", "~> 3.0.0"
 
+gem 'compass-rails'
+gem 'compass_twitter_bootstrap'
+
 # Gems used only for assets and not required
 # in production environments by default.
 group :assets do
